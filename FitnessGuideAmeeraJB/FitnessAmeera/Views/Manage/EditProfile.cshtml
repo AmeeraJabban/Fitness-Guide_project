@@ -1,0 +1,80 @@
+﻿@model FitnessAmeera.Models.ProfileViewModel
+
+@{
+    ViewBag.Title = "تعديل البيانات الشخصية";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class=" row thumbnail " style="background-color:white;padding-bottom:100px;margin:1px">
+
+    @if (Request.IsAuthenticated && User.IsInRole("SuperUsers"))
+    {
+        <div style="background:url(../../Content/images/Blog-sportvoeding2.jpg)  fixed repeat ;height:220px;">
+        </div>
+
+    }
+    else if (Request.IsAuthenticated && User.IsInRole("Admins"))
+    {
+        <div style="background:url(../../Content/images/adminheader.jpg)  fixed no-repeat ;height:200px;">
+        </div>
+    }
+    else
+    {
+        <div style="background:url(../../Content/images/sport-zdrowie-mini-jpg.jpg) ;background-size:cover; height:220px;">
+        </div>
+    }
+    <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+        <h4 style="text-align:center ;color:black">
+            <span class="glyphicon glyphicon-asterisk"></span> تعديل البيانات الشخصية
+
+        </h4>
+    </div>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            @ViewBag.message
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "col-md-3 control-label" })
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.Weight, new { @class = "col-md-3 control-label" })
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.Weight, new { htmlAttributes = new { type = "number", min = "44", max = "150", @class = "form-control" } })
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.Heigh, new { @class = "col-md-3 control-label" })
+                <div class="col-md-8">
+                    @Html.EditorFor(model => model.Heigh, new { htmlAttributes = new { type = "number", min = "145", max = "200", @class = "form-control" } })
+                </div>
+            </div>
+
+
+
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="حفظ" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+    <p class="col-md-3 btn-lg btn-primary" role="button" style="margin-right:10px">
+
+        <span class="glyphicon glyphicon-share-alt"></span>
+        @Html.ActionLink("العودة إلى القائمة", "../home/index", null, new { @style = "color:black;font-weight:500" })
+
+
+    </p>
+</div>

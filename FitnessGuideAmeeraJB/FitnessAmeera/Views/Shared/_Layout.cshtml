@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html lang="ar-sy" style="direction:rtl">
+<head>
+    @*faceook *@
+    <link rel="shortcut icon" href="~/Content/images/favicon-32x32.png" />
+    <title>@ViewBag.Title</title>
+    <meta name="description" content="Fitness Guide">
+    <meta name="author" content="ameera Jabban">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+
+    <link rel="stylesheet" href="~/Content/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Content/css/animate.css">
+    <link rel="stylesheet" href="~/Content/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Content/css/owl.theme.css">
+    <link rel="stylesheet" href="~/Content/css/owl.carousel.css">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="~/Content/css/style.css">
+
+    <!-- Google Font -->
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lora:700italic' rel='stylesheet' type='text/css'>
+
+</head>
+<body data-spy="scroll" data-target=".navbar-collapse">
+
+
+    <!-- =========================
+         PRE LOADER
+    ============================== -->
+    <div class="preloader">
+
+        <div class="sk-spinner sk-spinner-pulse"></div>
+
+    </div>
+
+
+    <!-- =========================
+        NAVIGATION SECTION
+    ============================== -->
+    <div class="navbar navbar-default navbar-fixed-top sticky-navigation" role="navigation" style="direction:rtl;">
+        <div class="container">
+
+            <div class="navbar-header">
+
+                <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="float:left">
+                    <span class="icon icon-bar"></span>
+                    <span class="icon icon-bar"></span>
+                    <span class="icon icon-bar"></span>
+                </button>
+
+                <a href="../Home/Index" class="navbar-brand " style="padding:0px">
+                    <img src="~/Content/images/2.PNG" style="height:50px" />
+                </a>
+
+            </div>
+
+            <div id="navbar" class="collapse navbar-collapse ">
+                @Html.Partial("_LoginPartial")
+
+
+            </div>
+
+        </div>
+    </div>
+
+
+    <!-- =========================
+       Body SECTION                              *** Done ***
+    ============================== -->
+
+    <div id="background">
+        <div class="container" style="background-color:white">
+
+
+            @RenderBody()
+
+
+
+
+
+
+
+
+
+            <!-- =========================
+                FOOTER SECTION                              *** Done ***
+            ============================== -->
+            <div class="thumbnail" style="margin-bottom:0px;margin-top:10px;">
+                <footer>
+
+                    <div class="row" style="padding-right:50px;padding-bottom:0px;padding-top:0px">
+
+                        <div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.1s" style="float:right">
+                            <h2>انضم إلينا</h2>
+                            <p>فريق متكامل يجمع الاختصاصات الازمة لمساعدت المشتركين للحصول والحفاظ على جسد صحي .</p>
+                        </div>
+                        <div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.1s" style="float:right">
+                        </div>
+
+                        <div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.1s">
+                            <h2>للمتابعة </h2>
+                            <ul class="social-icon" style="margin-right:20px">
+
+                                <li><a href="https://web.facebook.com/Fitness-Health-Guide-181689239302220/" class="fa fa-facebook wow fadeIn" style="color:black" data-wow-delay="1s"></a></li>
+                                <li><a href="~/Home/Contact" class=" glyphicon glyphicon-envelope wow fadeIn" style="color:black" data-wow-delay="1s"></a></li>
+
+                            </ul>
+                        </div>
+
+                        <div class="clearfix"></div>
+
+                        <div class="col-md-12 col-sm-12">
+                            <p class="copyright-text" style="font-weight:900">  ***Copyright &copy; 2018 SVU *** Ameera Abd Alrehman jabban </p>
+
+                        </div>
+
+                    </div>
+                </footer>
+
+            </div>
+
+        </div>
+    </div>
+    <!-- =========================
+         SCRIPTS
+    ============================== -->
+    <script src="~/Content/js/jquery.js"></script>
+    <script src="~/Content/js/bootstrap.min.js"></script>
+    <script src="~/Content/js/jquery.parallax.js"></script>
+    <script src="~/Content/js/jquery.nav.js"></script>
+    <script src="~/Content/js/jquery.backstretch.min.js"></script>
+    <script src="~/Content/js/owl.carousel.min.js"></script>
+    <script src="~/Content/js/smoothscroll.js"></script>
+    <script src="~/Content/js/wow.min.js"></script>
+    <script src="~/Content/js/custom.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

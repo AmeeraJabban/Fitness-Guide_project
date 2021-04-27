@@ -1,0 +1,66 @@
+﻿@using FitnessAmeera.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "تسجيل الدخول";
+}
+@*      Done by    ameera_45149       *@
+
+<!-- =========================
+    loginForm SECTION                                             *** Done ***
+============================== -->
+<section id="loginForm" class="parallax-section thumbnail" style="margin-bottom:0px;">
+    <div class="container">
+        <div class="row ">
+            <div class="wow fadeInUp col-md-8 col-sm-offset-1 col-sm-10" data-wow-delay="0.5s" style=" margin-right: 11%">
+                @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h2 style="color:white">سجل دخول </h2>
+                    <hr />
+                    <p></p>
+
+                    <div class="loginForm_detail">
+                        <form action="#" method="post" id="loginForm-signup">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            <div class="loginForm">
+                                @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <br />
+                            <p class="btn btn-default" style="text-align:center">
+                                @Html.ActionLink("انشاء حساب جديد", "../Account/Register")
+                            </p>
+                            <br />
+                            <br />
+
+                            <div class="loginForm">
+                                @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                                <div class="col-md-10">
+                                    @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                                </div>
+
+                            </div>
+
+                            <div class="loginForm" style="padding-right:30px">
+                                <div class="col-md-12 col-sm-3">
+
+                                    <input type="submit" value="تسجيل دخول" class="btn btn-default smoothScroll" />
+                                </div>
+                            </div>
+
+
+
+                        </form>
+                    </div>
+                }
+            </div>
+
+        </div>
+    </div>
+</section>
+

@@ -1,0 +1,69 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<FitnessAmeera.Models.Articles>
+@{
+    ViewBag.Title = "المقالات";
+}
+<div class="row thumbnail" style="background-color:white;padding-bottom:100px;margin:1px">
+    <div style="background:url(../../Content/images/health-and-fitness.jpg)   no-repeat ;background-size:cover ;height:200px;">
+    </div>
+    <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+        <h4 style="text-align:center;color:black">
+            <span class="glyphicon glyphicon-flag"></span>&nbsp; تمارين علاجية خاصة
+        </h4>
+
+
+    </div>
+
+    <div id="blog" class="parallax-section">
+
+        <div id="blog" class="parallax-section">
+
+            <div class="wow fadeInUp col-md-12 col-sm-12">
+                @foreach (var sub_item in Model)
+                {
+                    <div class="wow fadeInUp thumbnail col-md-3 col-sm-12">
+
+                        <div class="blog-thumb " style=" height:300px;padding-right:0px; padding-bottom:0px ; margin-bottom:0px; background-image: url(../../uploads/@sub_item.ArticleImage); background-size: cover;">
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <div class="thumbnail" style="background-color:ghostwhite;width:250px;">
+                                <h6>
+                                    @Html.ActionLink(Html.DisplayFor(ModelItem => sub_item.ArticleTitle).ToString(), "Details", new { articleId = sub_item.Id })
+                                </h6>
+                            </div>
+                        </div>
+
+
+                        <p>
+                            @Html.DisplayFor(ModelItem => sub_item.ArticleSummary).ToString().Substring(0, 35)
+                            @Html.ActionLink("لقراءة المزيد..", "Details", new { articleId = sub_item.Id })
+
+                        </p>
+
+                    </div>
+                }
+
+
+
+
+            </div>
+
+
+
+
+
+        </div>
+        @Html.PagedListPager(Model, Page => Url.Action("Articles2", new { Page }))
+    </div>
+</div>
+
+
+

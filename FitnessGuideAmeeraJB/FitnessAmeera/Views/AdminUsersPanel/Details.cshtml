@@ -1,0 +1,107 @@
+﻿@model FitnessAmeera.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "التفاصيل";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*ameera*@        @* تفاصيل المشتركين  *@      @*45149*@
+
+
+<div class="row thumbnail" style="background-color:white;padding-bottom:100px;margin:1px">
+    <div style="background:url(../../Content/images/adminheader.jpg)  fixed no-repeat ;height:200px;">
+    </div>
+    <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+        <h4 style="color:black">
+            <span class="glyphicon glyphicon-info-sign"></span>&nbsp;  المعلومات الأساسية:
+        </h4>
+
+
+    </div>
+    <div class=" table-responsive col-md-6">
+        <table class="table  table-hover" style="margin-bottom:30px;margin-top:50px">
+
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd;font-weight:900 ">
+                    @Html.Label(" البريد الإلكتروني")
+                </th>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;">
+
+                    @Html.DisplayFor(model => model.Email)
+
+                </td>
+            </tr>
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd; font-weight:900">
+                    @Html.Label("العمر")
+                </th>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;">
+
+                    @Html.DisplayFor(model => model.Age)
+                </td>
+            </tr>
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd;font-weight:900 ">
+                    @Html.Label(" الجنس")
+                </th>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;">
+
+                    @Html.DisplayFor(model => model.Sex)
+                </td>
+            </tr>
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd;font-weight:900 ">
+                    @Html.Label(" الوزن")
+                </th>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;">
+
+                    @Html.DisplayFor(model => model.Weight)
+                </td>
+            </tr>
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd;font-weight:900 ">
+                    @Html.Label(" الطول")
+                </th>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;">
+
+                    @Html.DisplayFor(model => model.Heigh)
+                </td>
+            </tr>
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd;font-weight:900 ">
+                    @Html.Label(" الحالة")
+                </th>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;">
+
+                    @Html.DisplayFor(model => model.Status)
+                </td>
+            </tr>
+
+        </table>
+    </div>
+
+
+
+    <div class="col-md-8">
+        <p class="col-md-2 btn-lg btn-danger" role="button" style="margin-right:10px">
+
+            <span class="glyphicon glyphicon-trash"></span>
+            &nbsp;
+            @Html.ActionLink("حذف", "Delete", new { id = Model.Id }, new { @style = "color:black;font-weight:500" })
+
+
+
+        </p>
+        <p class="col-md-4 btn-lg btn-primary" role="button" style="margin-right:10px">
+
+            <span class="glyphicon glyphicon-share-alt"></span>
+            @Html.ActionLink("العودة إلى القائمة", "Index", null, new { @style = "color:black;font-weight:500" })
+
+        </p>
+
+
+    </div>
+    <div class="col-md-12">
+        <p></p>
+    </div>
+    <div class="col-md-12"><p></p></div>
+</div>

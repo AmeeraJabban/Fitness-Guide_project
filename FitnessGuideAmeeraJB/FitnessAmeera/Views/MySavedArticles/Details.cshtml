@@ -1,0 +1,35 @@
+﻿@model FitnessAmeera.Models.MySavedArticles
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>MySavedArticles</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.articles.ArticleSummary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.articles.ArticleSummary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.User.Age)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

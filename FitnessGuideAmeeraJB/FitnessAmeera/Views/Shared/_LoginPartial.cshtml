@@ -1,0 +1,72 @@
+﻿@using Microsoft.AspNet.Identity
+@using System.Web.Mvc;
+@using FitnessAmeera.Models;
+@using Microsoft.AspNet.Identity;
+
+@*      Done by    ameera_45149       *@
+
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" }))
+    {
+        var db = new ApplicationDbContext();
+        var UserId = User.Identity.GetUserId();
+        var CurrentUser = db.Users.Where(a => a.Id == UserId).SingleOrDefault();
+
+        @Html.AntiForgeryToken()
+
+        <ul class="nav navbar-nav  navbar-right main-navigation">
+
+            <li style="float:inherit"><a href="~/Home/Index" class="smoothScroll"><i class="glyphicon glyphicon-home"></i>  الصفحة الرئيسية </a> </li>
+            <li class="dropdown" style="float:inherit">
+                <a class=" smoothScroll dropdown-toggle" data-toggle="dropdown" href="#"><i class="glyphicon glyphicon-leaf "></i>     المقالات  <i class="glyphicon glyphicon-chevron-down "></i>   </a>
+                <ul class="dropdown-menu">
+                    <li style="float:inherit"><a href="~/Home/Articles" class="smoothScroll"><i class="glyphicon glyphicon-grain "></i>  أشهر المقالات </a></li>
+                    <li style="float:inherit"><a href="~/Home/Articles4" class="smoothScroll"><i class="glyphicon glyphicon-apple "></i>  القيم الغذائية </a></li>
+                    <li style="float:inherit"><a href="~/Home/Articles2" class="smoothScroll"><i class="glyphicon glyphicon-flag "></i>  تمارين علاجية </a></li>
+                    <li style="float:inherit"><a href="~/Home/Articles3" class="smoothScroll"><i class="glyphicon glyphicon-cutlery "></i>  أطعمة الصحية </a></li>
+
+                </ul>
+
+
+
+            </li>
+            <li style="float:inherit"><a href="~/Home/GetMySavedArticles" class="smoothScroll"><i class="glyphicon glyphicon-folder-open"></i>  محفوظاتي </a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-left ">
+            <li>
+                @Html.ActionLink("مرحباً " + CurrentUser.PhoneNumber + " ! ", "index", "Manage", routeValues: null, htmlAttributes: new { title = "الحساب الشخصي" })
+            </li>
+            <li><a href="javascript:document.getElementById('logoutForm').submit()"><i class="glyphicon glyphicon-log-out"></i>   تسجيل الخروج</a></li>
+        </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav  navbar-right main-navigation">
+
+        <li style="float:inherit"><a href="~/Home/Index" class="smoothScroll"><i class="glyphicon glyphicon-home"></i>  الصفحة الرئيسية </a> </li>
+        <li class="dropdown" style="float:inherit">
+            <a class=" smoothScroll dropdown-toggle" data-toggle="dropdown" href="#"><i class="glyphicon glyphicon-leaf "></i>     المقالات  <i class="glyphicon glyphicon-chevron-down "></i>   </a>
+            <ul class="dropdown-menu">
+                <li style="float:inherit"><a href="~/Home/Articles" class="smoothScroll" style="text-align:right"><i class="glyphicon glyphicon-grain "></i>  أشهر المقالات </a></li>
+                <li style="float:inherit"><a href="~/Home/Articles4" class="smoothScroll" style="text-align:right"><i class="glyphicon glyphicon-apple "></i>  القيم الغذائية </a></li>
+                <li style="float:inherit"><a href="~/Home/Articles2" class="smoothScroll" style="text-align:right"><i class="glyphicon glyphicon-flag "></i>  تمارين علاجية </a></li>
+                <li style="float:inherit"><a href="~/Home/Articles3" class="smoothScroll" style="text-align:right"><i class="glyphicon glyphicon-cutlery "></i>  أطعمة الصحية </a></li>
+
+            </ul>
+
+
+
+        </li>
+        <li style="float:inherit"><a href="~/Home/test" class="smoothScroll"><i class="glyphicon glyphicon-scale"></i>  اختبار السمنة</a></li>
+
+        <li style="float:inherit"><a href="~/Home/Index#trainer" class="smoothScroll"><i class="glyphicon glyphicon-user"></i>  فريق العمل</a></li>
+        
+       <li style="float:inherit"><a href="~/Home/Index#overview" class="smoothScroll"><i class="glyphicon glyphicon-info-sign"></i>  حول الموقع</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-left">
+        <li style="float:inherit"><a href="~/Account/Login" class="smoothScroll"><i class="glyphicon glyphicon-log-in"></i>  تسجيل دخول </a> </li>
+        <li style="float:inherit"><a href="~/Account/Register" class="smoothScroll"><i class="glyphicon glyphicon-lock"></i>  اشتراك </a></li>
+    </ul>
+}

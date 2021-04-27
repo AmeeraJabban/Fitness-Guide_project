@@ -1,0 +1,63 @@
+﻿@model FitnessAmeera.Models.IndexViewModel
+@{
+    ViewBag.Title = "إدارة";
+}
+
+<div class=" row thumbnail " style="background-color:white;padding-bottom:100px;margin:1px">
+
+    @if (Request.IsAuthenticated && User.IsInRole("SuperUsers"))
+    {
+        <div style="background:url(../../Content/images/Blog-sportvoeding2.jpg)  fixed repeat ;height:220px;">
+        </div>
+
+    }
+    else if (Request.IsAuthenticated && User.IsInRole("Admins"))
+    {
+        <div style="background:url(../../Content/images/adminheader.jpg)  fixed no-repeat ;height:200px;">
+        </div>
+    }
+    else
+    {
+        <div style="background:url(../../Content/images/sport-zdrowie-mini-jpg.jpg) ;background-size:cover; height:220px;">
+        </div>
+    }
+    <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+        <h4 style="text-align:center ;color:black">
+            <span class="glyphicon glyphicon-asterisk"></span>  البيانات الشخصية
+
+        </h4>
+    </div>
+    <p class="text-success">@ViewBag.StatusMessage</p>
+    <div>
+
+
+        <div class="col-md-4 "></div>
+        <div class="col-md-5" style="padding-top:50px">
+            <p class="btn-lg btn-block btn-success" role="button">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="glyphicon glyphicon-alert"></span>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                @Html.ActionLink("هل ترغب بتغيير كلمة المرور؟", "ChangePassword", null, new { @style = "color:black;font-weight:500" })
+            </p>
+
+            <p class="btn-lg btn-block btn-info" role="button">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="glyphicon glyphicon-briefcase"></span>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                @Html.ActionLink("هل ترغب بتعديل  بياناتك الشخصية؟", "EditProfile", null, new { @style = "color:black;font-weight:500" })
+            </p>
+            <p class="btn-lg btn-block btn-primary" role="button">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span class="glyphicon glyphicon-share-alt"></span>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                @Html.ActionLink("العودة إلى القائمة", "../home/index", null, new { @style = "color:black;font-weight:500" })
+            </p>
+
+        </div>
+
+        <div class="col-md-3"></div>
+    </div>
+</div>

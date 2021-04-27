@@ -1,0 +1,99 @@
+﻿@model FitnessAmeera.Models.RegisterViewModel
+
+@{
+    ViewBag.Title = "اختبار اللياقة";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row thumbnail" style="background-color:white;padding-bottom:100px;margin:1px">
+    <div style="background:url(../../Content/images/health-and-fitness.jpg)   no-repeat ;background-size:cover ;height:200px;">
+    </div>
+    <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+        <h4 style="text-align:center;color:black">
+            <span class="glyphicon glyphicon-scale"></span>&nbsp; اختبار اللياقة والصحة
+        </h4>
+
+
+    </div>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div>
+                <p style="color:black">
+                    اعرف حالة جسمك واحصل على نصائح مهمة للتعامل مع وزنك و صحتك - تعرف على احتياجاتك اليومية من السعرات الحرارية   -   موشر كتلة الجسم الخاص بك  -    مقياس معدل الأيض  .. تعرف على الحصة الغذائية اليومية  المناسبة لجسمك للمحافظة على  وزنك حسب النشاط الاعتيادي الذي تقوم به وبشكل يومي.. احسب عدد السعرات اليومية التي يكتسبها جسمك عبر اختيار الاطعمة التي تناولتها وبالحصص ايضا وذلك من  قائمة تضم اكثر من الف نوع طعام وطبخات مدروسة السعرات من قبل اخصائيين المركز..
+                </p>
+                <br />     <br /> <br />
+            </div>
+
+            <div class="col-md-2"></div>
+            <div class="col-md-6 thumbnail">
+                <br />     <br />
+                <div class="loginForm">
+                    @Html.LabelFor(m => m.Age, new { @class = "col-md-3 control-label" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.Age, new { htmlAttributes = new { type = "number", min = "17", max = "80", @class = "form-control" } })
+                    </div>
+                </div>
+                <br /><br />     <br />
+                <div class="loginForm">
+                    @Html.LabelFor(m => m.Sex, new { @class = "col-md-3 control-label" })
+                    <div class="col-md-8">
+                        @Html.DropDownList("Sex", new SelectList(new[] { "ذكر", "انثى" }), new { @class = "form-control" })
+                    </div>
+                </div>
+                <br />     <br /> <br />
+                <div class="loginForm">
+                    @Html.LabelFor(m => m.Heigh, new { @class = "col-md-3 control-label" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.Heigh, new { htmlAttributes = new { type = "number", min = "145", max = "200", @class = "form-control" } })
+                    </div>
+                </div>
+                <br />     <br /> <br />
+                <div class="loginForm">
+                    @Html.LabelFor(m => m.Weight, new { @class = "col-md-3 control-label" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.Weight, new { htmlAttributes = new { type = "number", min = "44", max = "150", @class = "form-control" } })
+
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <br />     <br />
+                        &nbsp;  &nbsp;  &nbsp;
+                        <input type="submit" value="احسب" class="btn btn-default" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4"></div>
+        <div class="col-md-12">
+            <h4>@ViewBag.Status</h4>
+            <br />
+            <br />
+
+        </div>
+    }
+
+    <br />
+    <br />
+    <p class="col-md-3 btn-lg btn-success" role="button" style="margin-right:10px">
+
+        <span class="glyphicon glyphicon-check"></span>
+        @Html.ActionLink("اشتراك", "../Account/Register", null, new { @style = "color:black;font-weight:500" })
+
+
+    </p>
+    <p class="col-md-3 btn-lg btn-primary" role="button" style="margin-right:10px">
+
+        <span class="glyphicon glyphicon-share-alt"></span>
+        @Html.ActionLink("العودة إلى القائمة", "../home/index", null, new { @style = "color:black;font-weight:500" })
+
+
+    </p>
+</div>

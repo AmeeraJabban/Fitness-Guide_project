@@ -1,0 +1,119 @@
+﻿@model FitnessAmeera.Models.RegisterViewModel
+@{
+    ViewBag.Title = "إنشاء حساب";
+}
+
+@*      Done by    ameera_45149       *@
+@if (Request.IsAuthenticated)
+{
+    <div class="row thumbnail" style="background-color:white;padding-bottom:100px;margin:1px">
+        <div style="background:url(../../Content/images/sport-zdrowie-mini-jpg.jpg) ;background-size:cover; height:220px;">
+        </div>
+        <div class=" col-md-12">
+            <br /><br /><br /><br /><br /><br />
+            <br /><br /><br /><br /><br /><br />
+
+            <p style="text-align:center;font-weight:500">
+                عذراً، قم بتسجيل الخروج أولاً إذا كنت ترغب بإنشاء حساب جديد ...
+            </p>
+        </div>
+        <br /><br /><br /><br /><br /><br />
+        <br /><br /><br /><br /><br /><br />
+        <br /><br /><br /><br /><br /><br />
+        <br /><br /><br /><br /><br /><br />
+
+
+    </div>
+
+}
+else
+{
+    <section id="SinForm" class="parallax-section thumbnail" style="margin-bottom:0px">
+        <div class="container">
+            <div class="row">
+                <div class=" col-md-2"><p></p></div>
+                <div class="wow fadeInUp col-md-offset-2 col-md-7 col-sm-offset-1 col-sm-10" data-wow-delay="0.5s">
+                    <h2 style="text-align:center;font-weight:400">@ViewBag.Title.</h2>
+
+                    @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                {
+                        @Html.AntiForgeryToken()
+                        <hr />
+                        @Html.ValidationSummary("", new { @class = "text-danger" })
+                        <div class="loginForm_detail">
+                            <form action="#" method="post" id="loginForm-signup">
+                                <div class="loginForm">
+                                    @Html.LabelFor(m => m.UserName, new { @class = "col-md-3 control-label" })
+                                    <div class="col-md-8">
+                                        @Html.TextBoxFor(m => m.UserName, new { @class = "form-control" })
+                                    </div>
+                                </div>
+                                <br />     <br /> <br />
+                                <div class="loginForm">
+                                    @Html.LabelFor(m => m.Email, new { @class = "col-md-3 control-label" })
+                                    <div class="col-md-8">
+                                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                                    </div>
+                                </div>
+                                <br />     <br /> <br />
+                                <div class="loginForm">
+                                    @Html.LabelFor(m => m.Age, new { @class = "col-md-3 control-label" })
+                                    <div class="col-md-8">
+                                        @Html.EditorFor(model => model.Age, new { htmlAttributes = new { type = "number", min = "17", max = "80", @class = "form-control" } })
+                                    </div>
+                                </div>
+                                <br /><br />     <br />
+                                <div class="loginForm">
+                                    @Html.LabelFor(m => m.Sex, new { @class = "col-md-3 control-label" })
+                                    <div class="col-md-8">
+                                        @Html.DropDownList("Sex", new SelectList(new[] { "ذكر", "انثى" }), new { @class = "form-control" })
+                                    </div>
+                                </div>
+                                <br />     <br /> <br />
+                                <div class="loginForm">
+                                    @Html.LabelFor(m => m.Heigh, new { @class = "col-md-3 control-label" })
+                                    <div class="col-md-8">
+                                        @Html.EditorFor(model => model.Heigh, new { htmlAttributes = new { type = "number", min = "145", max = "200", @class = "form-control" } })
+                                    </div>
+                                </div>
+                                <br />     <br /> <br />
+                                <div class="loginForm">
+                                    @Html.LabelFor(m => m.Weight, new { @class = "col-md-3 control-label" })
+                                    <div class="col-md-8">
+                                        @Html.EditorFor(model => model.Weight, new { htmlAttributes = new { type = "number", min = "44", max = "150", @class = "form-control" } })
+
+                                    </div>
+                                </div>
+                                <br />     <br /> <br />
+                                <div class="loginForm">
+                                    @Html.LabelFor(m => m.Password, new { @class = "col-md-3 control-label" })
+                                    <div class="col-md-8">
+                                        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                                    </div>
+                                </div>
+                                <br />     <br /> <br />
+                                <div class="loginForm">
+                                    @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-3 control-label" })
+                                    <div class="col-md-8">
+                                        @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+                                    </div>
+                                </div>
+                                <br />     <br /> <br />
+                                <div class="loginForm">
+                                    <div class="col-md-offset-2 col-md-10">
+                                        <input type="submit" class="btn btn-default smoothScroll " value="تسجيل" />
+                                    </div>
+                                </div>
+                                <br />     <br /> <br />
+                            </form>
+                        </div>
+                    }
+                </div>
+
+
+            </div>
+
+        </div>
+
+    </section>
+}

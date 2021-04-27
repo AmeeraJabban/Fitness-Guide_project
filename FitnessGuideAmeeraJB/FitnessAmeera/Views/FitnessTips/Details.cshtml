@@ -1,0 +1,130 @@
+﻿@model FitnessAmeera.Models.FitnessTips
+
+@{
+    ViewBag.Title = "التفاصيل";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*ameera*@        @*عرض تفاصي المقال *@      @*45149*@
+
+
+
+<div class="row thumbnail" style="background-color:white;padding-bottom:100px;margin:1px">
+    <div style="background:url(../../Content/images/Blog-sportvoeding2.jpg)  fixed repeat ;height:220px;">
+    </div>
+    <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+        <h4 align="center"><span class="glyphicon glyphicon-info-sign"></span>  المعلومات الأساسية: </h4>
+    </div>
+
+
+
+    <div class="col-md-6">
+        <img class="img-responsive thumbnail" src="~/uploads/@Html.DisplayFor(model => model.TipImage)" style="width:500px; height:400px" />
+    </div>
+    <div class="table-responsive col-md-6">
+        <table class="table  table-hover" style="margin-bottom:30px;margin-top:50px">
+
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd; font-weight:900;width:100px;font-size:larger">
+
+                    @Html.DisplayNameFor(model => model.TipTitle)
+
+                </th>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;font-size:large">
+
+                    @Html.DisplayFor(model => model.TipTitle)
+                </td>
+            </tr>
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd;font-weight:900 ;width:100px;font-size:larger">
+                    @Html.DisplayNameFor(model => model.TipSummary)
+                </th>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;font-size:large">
+                    @Html.DisplayFor(model => model.TipSummary)
+                </td>
+            </tr>
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd;font-weight:900 ;width:100px;font-size:larger">
+                    @Html.DisplayNameFor(model => model.TipStatus)
+                </th>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;font-size:large">
+                    @Html.DisplayFor(model => model.TipStatus)
+                </td>
+            </tr>
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd;font-weight:900 ;width:100px;font-size:larger">
+
+                    @Html.DisplayNameFor(model => model.ArticlesTypes.Type)
+                </th>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;font-size:large">
+                    @Html.DisplayFor(model => model.ArticlesTypes.Type)
+                </td>
+            </tr>
+
+
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd;font-weight:900;width:100px ">
+                    @Html.DisplayNameFor(model => model.TipDate)
+                </th>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;">
+                    @Html.DisplayFor(model => model.TipDate)
+
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="col-md-12">
+
+        <table>
+
+            <tr>
+                <th style="border-top:0px; border-bottom: 1px solid #ddd;font-weight:900;font-size:larger ">
+                    @Html.DisplayNameFor(model => model.TipDetails)
+                </th>
+            </tr>
+            <tr>
+                <td style="border-top:0px; border-bottom: 1px solid #ddd;font-size:large">
+                    <br />
+                    @Html.Raw(HttpUtility.HtmlDecode(Html.DisplayFor(model => model.TipDetails).ToString()))
+
+
+                    <br /><br />
+
+                </td>
+            </tr>
+
+        </table>
+        <br />
+        <br />
+        <br />
+        <br />
+    </div>
+    <p class="col-md-2 btn-lg btn-success" role="button" style="margin-right:10px">
+
+        <span class="glyphicon glyphicon-edit"></span>
+        &nbsp;
+        @Html.ActionLink("تعديل", "Edit", new { id = Model.Id }, new { @style = "color:black;font-weight:500" })
+
+    </p>
+
+    <p class="col-md-2 btn-lg btn-danger" role="button" style="margin-right:10px">
+
+        <span class="glyphicon glyphicon-trash"></span>
+        &nbsp;
+        @Html.ActionLink("حذف", "Delete", new { id = Model.Id }, new { @style = "color:black;font-weight:500" })
+
+
+
+    </p>
+
+
+    <p class="col-md-2 btn-lg btn-primary" role="button" style="margin-right:10px">
+
+        <span class="glyphicon glyphicon-share-alt"></span>
+        @Html.ActionLink("العودة إلى القائمة", "index", null, new { @style = "color:black;font-weight:500" })
+
+    </p>
+    <div class="col-md-12">
+        <p></p>
+    </div>
+
+</div>

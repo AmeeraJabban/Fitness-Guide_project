@@ -1,0 +1,60 @@
+﻿@model FitnessAmeera.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "إضافة";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*ameera*@        @* إضافة مختص  *@      @*45149*@
+<div class="row thumbnail" style="background-color:white;padding-bottom:100px;margin:1px">
+    <div style="background:url(../../Content/images/adminheader.jpg)  fixed no-repeat ;height:200px;">
+    </div>
+    <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+        <h4 style="text-align:center;color:black">
+            <span class="glyphicon glyphicon-plus"></span>&nbsp; إضافة مختص جديد
+        </h4>
+
+
+    </div>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal" style="padding-right:100px">
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <br /><br />
+
+            <div class="form-group">
+                @Html.Label("البريد الإلكتروني", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-5">
+
+
+                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { type = "Email", @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+
+
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10" style="padding-bottom:10px">
+                    <input type="submit" value="إضافة" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+    <p class="col-md-3 btn-lg btn-primary" role="button" style="margin-right:10px">
+
+        <span class="glyphicon glyphicon-share-alt"></span>
+        &nbsp;
+
+        @Html.ActionLink("العودة إلى القائمة ", "Index", null, new { @style = "color:black;font-weight:500" })
+
+    </p>
+
+</div>
+

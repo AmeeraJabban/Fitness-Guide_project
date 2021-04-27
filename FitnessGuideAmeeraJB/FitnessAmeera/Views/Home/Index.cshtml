@@ -1,0 +1,547 @@
+﻿@using FitnessAmeera.Models;
+@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<FitnessAmeera.Models.Articles>
+@{
+    ViewBag.Title = "الصفحة الرئيسية";
+}
+@{ if (!Request.IsAuthenticated)
+    {
+        <!-- =========================
+            HOME SECTION                                            ************* Done  ************
+        ============================== -->
+        <section id="home">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-offset-1 col-md-10 col-sm-12" style="margin-right:10%">
+                        <h3 class="wow bounceIn" data-wow-delay="0.8s">&nbsp;&nbsp; &nbsp;&nbsp;التغيير يبدأ من هنا .... </h3>
+                        <h1 class="wow fadeInUp" data-wow-delay="1s">&nbsp;&nbsp;انضم لنا <br>واحصل على نظامك الصحي الخاص...</h1>
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="~/Account/Login" class="wow fadeInUp smoothScroll btn btn-default" data-wow-delay="1.3s">تسجيل دخول</a>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+
+
+        <!-- =========================
+            Articles SECTION
+        ============================== -->
+
+        <section id="blog" class="parallax-section ">
+            <div class="thumbnail">
+                <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+                    <h3 style="text-align:center">
+                        <span class="glyphicon glyphicon-grain"></span>  أشهر المقالات
+                    </h3>
+
+
+
+                </div>
+                <div class="row">
+
+
+                    <div class="col-md-12 col-sm-12">
+                        @foreach (Articles sub_item in ViewBag.Articles)
+                {
+                            <div class="thumbnail col-md-3 col-sm-12">
+
+                                <div class="blog-thumb " style=" height:300px;padding-right:0px; padding-bottom:0px ; margin-bottom:0px; background-image:url(../../uploads/@sub_item.ArticleImage) ;background-size: cover;">
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <div class="thumbnail" style="background-color:ghostwhite;width:250px;margin-right:10px;margin-left:10px">
+                                        <h6 style="text-align:center">
+                                            @Html.ActionLink(Html.DisplayFor(ModelItem => sub_item.ArticleTitle).ToString(), "Details", new { articleId = sub_item.Id })
+                                        </h6>
+                                    </div>
+                                </div>
+
+
+                                <p>
+                                    @Html.DisplayFor(ModelItem => sub_item.ArticleSummary).ToString().Substring(0, 35)
+                                    @Html.ActionLink("لقراءة المزيد..", "Details", new { articleId = sub_item.Id })
+
+                                </p>
+
+                            </div>
+                        }
+
+
+
+
+                    </div>
+
+
+
+
+
+                </div>
+                <p class="btn btn-default" style="color:red">
+                    @Html.ActionLink(" مزيد من المقالات...", "Articles")
+
+
+                </p>
+            </div>
+        </section>
+
+
+        <section id="blog" class="parallax-section ">
+            <div class="thumbnail">
+                <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+                    <h3 style="text-align:center">
+                        <span class="glyphicon glyphicon-apple"></span>  القيم الغذائية
+                    </h3>
+
+
+
+                </div>
+                <div class="row">
+
+
+                    <div class=" col-md-12 col-sm-12">
+                        @foreach (Articles sub_item in ViewBag.Articles4)
+                {
+                            <div class=" thumbnail col-md-3 col-sm-12">
+
+                                <div class="blog-thumb " style=" height:300px;padding-right:0px; padding-bottom:0px ; margin-bottom:0px; background-image:url(../../uploads/@sub_item.ArticleImage) ;background-size: cover;">
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <div class="thumbnail" style="background-color:ghostwhite;width:250px;margin-right:10px;margin-left:10px">
+                                        <h6 style="text-align:center">
+                                            @Html.ActionLink(Html.DisplayFor(ModelItem => sub_item.ArticleTitle).ToString(), "Details", new { articleId = sub_item.Id })
+                                        </h6>
+                                    </div>
+                                </div>
+
+
+                                <p>
+                                    @Html.DisplayFor(ModelItem => sub_item.ArticleSummary).ToString().Substring(0, 35)
+                                    @Html.ActionLink("لقراءة المزيد..", "Details", new { articleId = sub_item.Id })
+
+                                </p>
+
+                            </div>
+                        }
+
+
+
+
+                    </div>
+
+
+
+
+
+                </div>
+                <p class="btn btn-default" style="color:red">
+                    @Html.ActionLink(" مزيد من المقالات...", "Articles4")
+
+
+                </p>
+            </div>
+        </section>
+
+        <section id="blog" class="parallax-section ">
+            <div class="thumbnail">
+                <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+                    <h3 style="text-align:center">
+                        <span class="glyphicon glyphicon-flag"></span>  تمارين علاجية خاصة
+                    </h3>
+
+
+
+                </div>
+                <div class="row">
+
+
+                    <div class="col-md-12 col-sm-12">
+                        @foreach (Articles sub_item in ViewBag.Articles2)
+                {
+                            <div class=" thumbnail col-md-3 col-sm-12">
+
+                                <div class="blog-thumb " style=" height:300px;padding-right:0px; padding-bottom:0px ; margin-bottom:0px; background-image:url(../../uploads/@sub_item.ArticleImage)  ;background-size: cover;">
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <div class="thumbnail" style="background-color:ghostwhite;width:250px;margin-right:10px;margin-left:10px">
+                                        <h6 style="text-align:center">
+                                            @Html.ActionLink(Html.DisplayFor(ModelItem => sub_item.ArticleTitle).ToString(), "Details", new { articleId = sub_item.Id })
+                                        </h6>
+                                    </div>
+                                </div>
+
+
+                                <p>
+                                    @Html.DisplayFor(ModelItem => sub_item.ArticleSummary).ToString().Substring(0, 35)
+                                    @Html.ActionLink("لقراءة المزيد..", "Details", new { articleId = sub_item.Id })
+
+                                </p>
+
+                            </div>
+                        }
+
+
+
+
+                    </div>
+
+
+
+
+
+                </div>
+                <p class="btn btn-default" style="color:red">
+                    @Html.ActionLink(" مزيد من المقالات...", "Articles2")
+
+
+                </p>
+            </div>
+        </section>
+
+
+
+        <section id="blog" class="parallax-section ">
+            <div class="thumbnail">
+                <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+                    <h3 style="text-align:center">
+                        <span class="glyphicon glyphicon-cutlery"></span>  أطباق صحية
+                    </h3>
+
+
+
+                </div>
+                <div class="row">
+
+
+                    <div class=" col-md-12 col-sm-12">
+                        @foreach (Articles sub_item in ViewBag.Articles3)
+                {
+                            <div class=" thumbnail col-md-3 col-sm-12">
+
+                                <div class="blog-thumb " style=" height:300px;padding-right:0px; padding-bottom:0px ; margin-bottom:0px; background-image:url(../../uploads/@sub_item.ArticleImage) ;background-size: cover; ">
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <div class="thumbnail" style="background-color:ghostwhite;width:250px;margin-right:10px;margin-left:10px">
+                                        <h6 style="text-align:center">
+                                            @Html.ActionLink(Html.DisplayFor(ModelItem => sub_item.ArticleTitle).ToString(), "Details", new { articleId = sub_item.Id })
+                                        </h6>
+                                    </div>
+                                </div>
+
+
+                                <p>
+                                    @Html.DisplayFor(ModelItem => sub_item.ArticleSummary).ToString().Substring(0, 35)
+                                    @Html.ActionLink("لقراءة المزيد..", "Details", new { articleId = sub_item.Id })
+
+                                </p>
+
+                            </div>
+                        }
+
+
+
+
+                    </div>
+
+
+
+
+
+                </div>
+                <p class="btn btn-default" style="color:red">
+                    @Html.ActionLink(" مزيد من المقالات...", "Articles3")
+
+
+                </p>
+            </div>
+        </section>
+
+
+        <!-- =========================
+              OVERVIEW SECTION                                          *********** Done **********
+          ============================== -->
+        <section id="overview" class="parallax-section">
+            <div class="container">
+                <div>
+
+                    <div class="col-md-6 col-sm-12">
+                        <img src="~/Content/images/aboutus.jpg" class="img-responsive" alt="Overview">
+
+                    </div>
+
+                    <div class="col-md-1"></div>
+
+                    <div class="wow fadeInUp col-md-4 col-sm-12" data-wow-delay="1s">
+                        <div class="overview-detail">
+                            <h2>من نحن ؟!</h2>
+                            <p>إذا كنت تسعى للحصول على جسم رشيق وصحي فقط انضم إلينا <br> يضم الموقع فريق متكامل من المختصيين في مجال اللياقة والصحة البدنية لمساعدتك للحصول على وزن مثالي. </p>
+                            <p>يقدم الموقع لمشتركيه نظام غذائي خاص مدعم ببعض التمارين الرياضية.</p>
+                            <a href="~/Account/Register" class="btn btn-default smoothScroll ">اشتراك</a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-1"></div>
+
+                </div>
+            </div>
+        </section>
+
+
+
+        <!-- =========================
+            TRAINER SECTION                                           *********** Done **********
+        ============================== -->
+        <section id="trainer" class="parallax-section">
+            <div style="padding-right:10px;padding-left:10px">
+                <div class="row">
+
+                    <div class="wow fadeInUp col-md-12 col-sm-12" data-wow-delay="0.3s">
+                        <h2>فريق العمل</h2>
+                        <p>خبراء في مجال اللياقة والصحة البدنية</p>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4">
+                        <div class="trainer-thumb">
+                            <img src="~/Content/images/trainer1-david-bosley.jpg" class="img-responsive" alt="Trainer">
+                            <div class="trainer-overlay">
+                                <div class="trainer-des">
+                                    <h2 style="color:aliceblue">Dr.Karam</h2>
+                                    <h3>Body Trainer</h3>
+                                    <ul class="social-icon">
+                                        <li><a href="https://web.facebook.com/DrKaram-Fitness-Trainer-178984359391623/?modal=admin_todo_tour" target="_blank" class="fa fa-facebook wow fadeInUp" data-wow-delay="1s"></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <p>حاصل على شهادة ماجستير في مجال اللياقة البدنية . عمل لدى أهم المراكز الرياضة كما عمل على تدريب بعض الشخصيات البارزة.</p>
+                    </div>
+
+
+                    <div class="col-md-4 col-sm-4">
+
+                    </div>
+
+
+                    <div class="col-md-4 col-sm-4">
+                        <div class="trainer-thumb">
+                            <img src="~/Content/images/career_nutritionist.jpg" class="img-responsive" alt="Trainer">
+                            <div class="trainer-overlay">
+                                <div class="trainer-des">
+                                    <h2 style="color:aliceblue">Dr.Talia </h2>
+                                    <h3>Fitness Trainer</h3>
+                                    <ul class="social-icon">
+                                        <li><a href="https://web.facebook.com/DrTalia-Fitness-Trainer-349633345535082/?modal=admin_todo_tour" target="_blank" class="fa fa-facebook wow fadeInUp" data-wow-delay="1s"></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <p>حاصلة على شهادة الماجيستير في التغذية .  عملت أخصائية تغذية في معهد العناية بصحة الاسرة في مجال الاستشارات الغذائية والتوعية الصحية والتدريب.</p>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </section>
+
+
+    }
+    else if (Request.IsAuthenticated && User.IsInRole("SuperUsers"))
+    {
+        <div class=" thumbnail " style="background-color:white;padding-bottom:100px;height:800px;margin:1px">
+            <div style="background:url(../../Content/images/Blog-sportvoeding2.jpg)  fixed repeat ;height:220px;">
+            </div>
+            <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+                <h3 style="text-align:center">
+                    <span class="glyphicon glyphicon-wrench"></span>  عمليات الأخصائيون
+                </h3>
+
+
+            </div>
+            <div class="col-md-4 "></div>
+            <div class="col-md-4" style="padding-top:50px">
+                <p class="btn-lg btn-block btn-success" role="button">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="glyphicon glyphicon-book"></span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    @Html.ActionLink("إدارة المقالات", "../Articles/Index", null, new { @style = "color:black;font-weight:500" })
+                </p>
+
+                <p class="btn-lg btn-block btn-info" role="button">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="glyphicon glyphicon-scale"></span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    @Html.ActionLink("إدارة البرامج الصحية", "../FitnessTips/Index", null, new { @style = "color:black;font-weight:500" })
+                </p>
+
+            </div>
+
+            <div class="col-md-4"></div>
+
+
+
+
+        </div>
+
+    }
+    else if (Request.IsAuthenticated && User.IsInRole("Admins"))
+    {
+        <div class="thumbnail" style="padding-bottom:100px;height:800px;padding-right:0px">
+            <div style="background:url(../../Content/images/adminheader.jpg)  fixed no-repeat ;height:200px;">
+            </div>
+            <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+                <h3 style="text-align:center">
+                    <span class="glyphicon glyphicon-wrench"></span>  إدارة الموقع
+                </h3>
+
+
+            </div>
+            <div class="col-md-4 "></div>
+            <div class="col-md-4" style="padding-top:50px">
+                <p class="btn-lg btn-block btn-success" role="button">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="glyphicon glyphicon-book"></span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    @Html.ActionLink("إدارة المقالات", "../AdminArticlesPanel/Index", null, new { @style = "color:black;font-weight:500" })
+                </p>
+
+
+
+                <p class="btn-lg btn-block btn-primary" role="button">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="glyphicon glyphicon-tint"></span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    @Html.ActionLink("إدارة أصناف المقالات", "../ArticalesTypes/Index", null, new { @style = "color:black;font-weight:500" })
+
+                </p>
+                <p class="btn-lg btn-block btn-info" role="button">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="glyphicon glyphicon-scale"></span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    @Html.ActionLink("إدارة البرامج الصحية", "../AdminFitnessTipsPanel/Index", null, new { @style = "color:black;font-weight:500" })
+                </p>
+                <p class="btn-lg btn-block btn-danger" role="button">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="glyphicon glyphicon-knight"></span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    @Html.ActionLink("إدارة الاخصائيون", "../AdminSuperUsersPanel/Index", null, new { @style = "color:black;font-weight:500" })
+                </p>
+                <p class="btn-lg btn-block btn-warning" role="button">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="glyphicon glyphicon-user"></span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    @Html.ActionLink("إدارة المستخدمين", "../AdminUsersPanel/Index", null, new { @style = "color:black;font-weight:500" })
+                </p>
+            </div>
+
+            <div class="col-md-4"></div>
+
+
+
+
+        </div>
+
+    }
+    else
+    {
+        <div class="row thumbnail" style="background-color:white;padding-bottom:100px;margin:1px">
+            <div style="background:url(../../Content/images/sport-zdrowie-mini-jpg.jpg) ;background-size:cover; height:220px;">
+            </div>
+            <div class="col-md-12 thumbnail" style="background-color:lavender;margin-top:5px">
+                <h4 style="text-align:center ;color:black">
+                    <span class="glyphicon glyphicon-user"></span>   أهلاً بك حالتك الصحية (@ViewBag.UserStatus)    يرجى اتباع الإرشادات التالية للحصول على جسد رشيق وصحي
+
+                </h4>
+            </div>
+
+            <div id="blog" class="parallax-section">
+
+                <div class="wow fadeInUp col-md-12 col-sm-12">
+                    @foreach (FitnessTips sub_item in ViewBag.fitnesstips)
+                    {
+                        <div class="wow fadeInUp thumbnail col-md-3 col-sm-12">
+
+                            <div class="blog-thumb " style=" height:300px;padding-right:0px; padding-bottom:0px ; margin-bottom:0px; background-image: url(../../uploads/@sub_item.TipImage); background-size: cover;">
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <div class="thumbnail" style="background-color:ghostwhite;width:250px;">
+                                    <h6>
+                                        @Html.ActionLink(Html.DisplayFor(ModelItem => sub_item.TipTitle).ToString(), "../Home/FitnessTipsDetails", new { TipId = sub_item.Id })
+                                    </h6>
+                                </div>
+                            </div>
+
+
+                            <p>
+                                @Html.DisplayFor(ModelItem => sub_item.TipSummary).ToString().Substring(0, 10)
+                                @Html.ActionLink("لقراءة المزيد..", "../Home/FitnessTipsDetails", new { TipId = sub_item.Id })
+
+                            </p>
+
+                        </div>
+                    }
+
+
+
+
+
+
+
+                </div>
+
+
+
+
+
+            </div>
+        </div>
+
+
+
+    }
+}

@@ -1,0 +1,868 @@
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\ApplicationInsights.config
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe.config
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.rsp
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe.config
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.rsp
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.AppContext.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Collections.Immutable.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Console.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Compression.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Pipes.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.AccessControl.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Claims.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Threading.Thread.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.ValueTuple.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe.config
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.rsp
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe.config
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll.config
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.pdb
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Web.Infrastructure.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Owin.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\WebGrease.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.pdb
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.xml
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csproj.CoreCompileInputs.cache
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.dll
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.pdb
+c:\users\samsung\Source\Repos\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\FitnessAmeera\obj\Debug\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\FitnessAmeera\obj\Debug\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\ApplicationInsights.config
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe.config
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.rsp
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe.config
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.rsp
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.AppContext.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Console.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Compression.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Claims.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.ValueTuple.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe.config
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.rsp
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll.config
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Owin.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\WebGrease.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.pdb
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.dll
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.xml
+C:\Users\SAMSUNG\Desktop\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\ApplicationInsights.config
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe.config
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.rsp
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe.config
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.rsp
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.AppContext.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Console.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Compression.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Claims.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.ValueTuple.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe.config
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.rsp
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll.config
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Owin.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\WebGrease.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.pdb
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.xml
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\New folder\now\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\ApplicationInsights.config
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.rsp
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.rsp
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.AppContext.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Console.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Compression.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Claims.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.ValueTuple.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.rsp
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll.config
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Owin.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\WebGrease.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.pdb
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.xml
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\pr1\now\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\ApplicationInsights.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.rsp
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.rsp
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.AppContext.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Console.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Compression.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Claims.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.ValueTuple.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.rsp
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Owin.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\WebGrease.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.pdb
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.Migrations.InitialCreate.resources
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.Migrations.lastedit.resources
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\ApplicationInsights.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.rsp
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.rsp
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.AppContext.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Console.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Compression.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Claims.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.ValueTuple.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.rsp
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll.config
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Owin.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\WebGrease.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.pdb
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.xml
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.Migrations.InitialCreate.resources
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.Migrations.lastedit.resources
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\pr1\المشروع الأول\final\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\ApplicationInsights.config
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.exe.config
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csc.rsp
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.exe.config
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\csi.rsp
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.AppContext.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Console.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Compression.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Claims.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.ValueTuple.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.exe.config
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\vbc.rsp
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll.config
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\FitnessAmeera.pdb
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Owin.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\WebGrease.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\PagedList.Mvc.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Helpers.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Mvc.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Optimization.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.Razor.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\System.Web.WebPages.Razor.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Antlr3.Runtime.pdb
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Newtonsoft.Json.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\EntityFramework.SqlServer.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\bin\Microsoft.AI.Web.xml
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.Migrations.InitialCreate.resources
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.Migrations.lastedit.resources
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.dll
+C:\Users\SAMSUNG\Desktop\SVU_S17_PR1_PR6_ameera_45149\FitnessGuideAmeeraJB\FitnessAmeera\obj\Debug\FitnessAmeera.pdb
